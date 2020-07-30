@@ -1,0 +1,1 @@
+This code is used to return daily changes in the OHLC, adjusted close prices, volume, daily change, and daily percentage change of an asset queried from Yahoo Finance!.
